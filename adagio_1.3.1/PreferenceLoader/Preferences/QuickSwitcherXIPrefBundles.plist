@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = QuickSwitcherXIPrefBundles;
+	cell = PSLinkCell;
+	detail = QuickSwitcherXIPrefBundlesListController;
+	icon = QuickSwitcherXIPrefBundles.png;
+	isController = 1;
+	label = Adagio;
+    };
+}

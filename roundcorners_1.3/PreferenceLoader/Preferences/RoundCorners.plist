@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = RoundCorners;
+		cell = PSLinkCell;
+		detail = "RoundCornersListController";
+		icon = "Icon.png";
+		isController = 1;
+		label = RoundCorners;
+	};
+}

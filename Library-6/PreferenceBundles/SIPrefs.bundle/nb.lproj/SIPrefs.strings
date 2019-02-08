@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>Enkel</string>
+<key>Fusion</key>
+<string>Fusjon</string>
+	<key>Advanced</key>
+	<string>Avansert</string>
+	<key>Enabled</key>
+	<string>Slått på</string>
+	<key>Choose between modes</key>
+	<string>Velg mellom moduser</string>
+	<key>General Animations (Simple)</key>
+	<string>Generelle Animasjoner (Enkel)</string>
+	<key>Whole System (Advanced)</key>
+	<string>Hele systemet (avansert)</string>
+	<key>Blacklist Applications</key>
+	<string>Applikasjonsunntak</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>Slå av når ikoner rister</string>
+    <key>Spring Animations</key>
+    <string>Fjæranimasjoner</string>
+    <key>Stiffness</key>
+    <string>Stivhet</string>
+	<key>Mass</key>
+	<string>Vekt</string>
+    <key>Damping</key>
+    <string>Demping</string>
+    <key>Spring animations could be applied to both Simple and Advanced mode</key>
+    <string>Fjæranimasjoner kan brukes i både Enkel- og Avansert-modus</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>Om du setter pris på denne utvidelsen kan du donere via PayPal：pw5a29@gmail.com
+
+Oversettelse: /u/dnivi3</string>
+    <key>Blacklist Springboard</key>
+    <string>Gjør et unntak for Springboard</string>
+</dict>
+</plist>

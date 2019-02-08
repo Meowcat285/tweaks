@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>SnowboardLogoCell</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.snowboardprefs</string>
+			<key>key</key>
+			<string>CustomCornerRadiusEnabled</string>
+			<key>label</key>
+			<string>Custom Corner Radius</string>
+		</dict>
+		<dict>
+			<key>showValue</key>
+			<true/>
+			<key>max</key>
+			<integer>30</integer>
+			<key>min</key>
+			<integer>0</integer>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>13</real>
+			<key>defaults</key>
+			<string>com.spark.snowboardprefs</string>
+			<key>key</key>
+			<string>CustomCornerRadius</string>
+			<key>isSegmented</key>
+			<true />
+			<key>segmentCount</key>
+			<integer>30</integer>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.snowboardprefs</string>
+			<key>key</key>
+			<string>CustomIconSizeEnabled</string>
+			<key>label</key>
+			<string>Custom Icon Scale</string>
+		</dict>
+		<dict>
+			<key>showValue</key>
+			<true/>
+			<key>max</key>
+			<real>1.5</real>
+			<key>min</key>
+			<real>0.3</real>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>1.0</real>
+			<key>defaults</key>
+			<string>com.spark.snowboardprefs</string>
+			<key>key</key>
+			<string>CustomIconSize</string>
+			<key>isSegmented</key>
+			<true />
+			<key>segmentCount</key>
+			<integer>12</integer>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.snowboardprefs</string>
+			<key>key</key>
+			<string>HideLabels</string>
+			<key>label</key>
+			<string>Hide Labels</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Clear Alternative Icons</string>
+			<key>action</key>
+			<string>clearalternatives</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Force Refresh</string>
+			<key>action</key>
+			<string>applyChanges</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerCellClass</key>
+			<string>SnowboardFooterCell</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>Icon Options</string>
+</dict>
+</plist>

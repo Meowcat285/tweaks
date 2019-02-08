@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Phone</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dfav</string>
+			<key>label</key>
+			<string>Hide Favorites tab</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>drecents</string>
+			<key>label</key>
+			<string>Hide Recents tab</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dcontacts</string>
+			<key>label</key>
+			<string>Hide Contacts tab</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dvoice</string>
+			<key>label</key>
+			<string>Hide VoiceMail tab</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Camera</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>rtbbbars</string>
+			<key>label</key>
+			<string>Remove top/bottom black bars</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>ohmc</string>
+			<key>label</key>
+			<string>One hand mode</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Settings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hsicons</string>
+			<key>label</key>
+			<string>Hide icons</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hssep</string>
+			<key>label</key>
+			<string>Hide separators</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>App Store</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hasts</string>
+			<key>label</key>
+			<string>Hide Trending</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>nauht</string>
+			<key>label</key>
+			<string>No update history</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Photos</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>izoomc</string>
+			<key>label</key>
+			<string>Increase zoom capability</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hpeople</string>
+			<key>label</key>
+			<string>Hide People</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hplaces</string>
+			<key>label</key>
+			<string>Hide Places</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>nocnfm</string>
+			<key>label</key>
+			<string>No delete confimation</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hidememtab</string>
+			<key>label</key>
+			<string>Hide Memories tab</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hidealbtab</string>
+			<key>label</key>
+			<string>Hide albums tab</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Clock</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dhclokcann</string>
+			<key>label</key>
+			<string>Disable homescreen icon animation</string> 
+		</dict>
+	</array>
+	<key>title</key>
+	<string>System Apps settings</string>
+</dict>
+</plist>
+

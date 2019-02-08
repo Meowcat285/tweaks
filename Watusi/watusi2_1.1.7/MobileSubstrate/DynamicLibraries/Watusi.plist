@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Filter</key>
+	<dict>
+		<key>Bundles</key>
+		<array>
+			<string>net.whatsapp.WhatsApp</string>
+			<string>net.whatsapp.WhatsApp1</string>
+			<string>net.whatsapp.WhatsApp2</string>
+			<string>net.whatsapp.WhatsApp3</string>
+			<string>net.whatsapp.WhatsApp4</string>
+			<string>net.whatsapp.WhatsApp5</string>
+            <string>net.whatsapp1.WhatsApp</string>
+            <string>net.whatsapp2.WhatsApp</string>
+            <string>net.whatsapp3.WhatsApp</string>
+            <string>net.whatsapp4.WhatsApp</string>
+            <string>net.whatsapp5.WhatsApp</string>
+		</array>
+	</dict>
+	<key>Mode</key>
+	<string>Any</string>
+</dict>
+</plist>

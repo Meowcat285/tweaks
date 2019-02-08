@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>LPP</string>
+			<key>label</key>
+			<string>Show LockPlus Pro</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>Xen</string>
+			<key>label</key>
+			<string>Show Xen HTML</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>ShowClock</string>
+			<key>label</key>
+			<string>Show Clock</string>
+		</dict>
+
+		<!--<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>HideClockOnLS</string>
+			<key>label</key>
+			<string>Hide Clock On Lockscreen</string>
+		</dict>-->
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>ShowFlashlightButton</string>
+			<key>label</key>
+			<string>Show Flashlight Button</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>ShowCameraButton</string>
+			<key>label</key>
+			<string>Show Camera Button</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>HyperionWidgets Manager</string>
+			<key>action</key>
+			<string>showWidgetsEditor</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Widget Options</string>
+</dict>
+</plist>

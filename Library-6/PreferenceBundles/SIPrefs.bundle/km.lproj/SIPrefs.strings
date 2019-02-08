@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>សាមញ្ញ</string>
+<key>Fusion</key>
+<string>លាយ</string>
+	<key>Advanced</key>
+	<string>កម្រិតខ្ពស់</string>
+	<key>Enabled</key>
+	<string>បានអនុញ្ញាត</string>
+	<key>Choose between modes</key>
+	<string>ជ្រើសរើសម៉ូដ</string>
+	<key>General Animations (Simple)</key>
+	<string>ចលនា​ទូទៅ (សាមញ្ញ)</string>
+	<key>Whole System (Advanced)</key>
+	<string>ប្រព័ន្ធទាំងមូល (កម្រិតខ្ពស់)</string>
+	<key>Blacklist Applications</key>
+	<string>កម្មវិធីដែលត្រូវលើកលែង</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>មិនអនុញ្ញាតពេលអាយខុនមានចលនា</string>
+    <key>Spring Animations</key>
+    <string>ចលនាលោត</string>
+    <key>Stiffness</key>
+    <string>ភាពរឹង</string>
+	<key>Mass</key>
+	<string>ម៉ាស</string>
+    <key>Damping</key>
+    <string>សន្ទុះ</string>
+    <key>Spring animations could be applied to both Simple and Advanced mode</key>
+    <string>ចលនាលោត​អាច​ដាក់​បាន​សម្រាប់​ម៉ូដសាមញ្ញ និង​ម៉ូដកម្រិតខ្ពស់</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>ប្រសិន​បើ​អ្នក​ចូល​ចិត្ត សូម​បរិច្ចាគ​ទៅ​ PayPal：pw5a29@gmail.com
+
+បក​ប្រែ​ដោយ @kienforcefidele</string>
+    <key>Blacklist Springboard</key>
+    <string>លើកលែង Springboard</string>
+</dict>
+</plist>

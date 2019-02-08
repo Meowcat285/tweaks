@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>Simple</string>
+<key>Fusion</key>
+<string>Fusión</string>
+	<key>Advanced</key>
+	<string>Avanzado</string>
+	<key>Enabled</key>
+	<string>Activado</string>
+	<key>Choose between modes</key>
+	<string>Escoja un modo</string>
+	<key>General Animations (Simple)</key>
+	<string>Animaciones generales (Simple)</string>
+	<key>Whole System (Advanced)</key>
+	<string>Todo el sistema (Avanzado)</string>
+	<key>Blacklist Applications</key>
+	<string>Aplicaciones en lista negra</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>Desactivar durando movimiento de ícono</string>
+    <key>Spring Animations</key>
+    <string>Animaciones de pantalla</string>
+    <key>Stiffness</key>
+    <string>Rigidez</string>
+	<key>Mass</key>
+	<string>Masa</string>
+    <key>Damping</key>
+    <string>Amortiguamiento</string>
+    <key>Spring animations could be applied to both Simple and Advanced mode</key>
+    <string>Animaciones de pantalla puedes error aplicadas a ambos simple y modo avanzado</string>
+    <key>Blacklist Springboard</key>
+    <string>Springboard en lista negra</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>Si te gusta, por favor dona en paypal: pw5a29@gmail.com
+
+Yhern023</string>
+</dict>
+</plist>

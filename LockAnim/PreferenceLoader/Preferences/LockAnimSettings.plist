@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = LockAnimSettings;
+		cell = PSLinkCell;
+		detail = "LockAnimSettingsController";
+		icon = "icon.png";
+		isController = 1;
+		label = "LockAnim";
+	};
+}

@@ -1,0 +1,1 @@
+{ Filter = { Bundles = ( "com.apple.springboard", "com.apple.UIKit", "com.apple.ControlCenterUI", "com.apple.MediaControls", "com.apple.MediaRemote", "com.apple.MediaPlaybackCore", "com.apple.MediaPlayerUI" ); }; }

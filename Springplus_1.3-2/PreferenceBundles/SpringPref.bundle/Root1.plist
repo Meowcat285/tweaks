@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Remove StatusBar in HS and LS</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>ddisablestatub</string>
+			<key>label</key>
+			<string>Remove Status Bar</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Dock</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>ddockback</string>
+			<key>label</key>
+			<string>Remove Dock Background</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Page</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>diconlabels</string>
+			<key>label</key>
+			<string>No icon labels</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>nbdots</string>
+			<key>label</key>
+			<string>Hide blue update dot</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>npagedots</string>
+			<key>label</key>
+			<string>No page dots</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Status bar</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>ddcbar</string>
+			<key>label</key>
+			<string>Disable coloured status for background </string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>eubstatus</string>
+			<key>label</key>
+			<string>Enable thin font</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>3D Touch</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>d3dbb</string>
+			<key>label</key>
+			<string>Disable background blur</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Spotlight</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dspd</string>
+			<key>label</key>
+			<string>Disable spotlight search</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dsls</string>
+			<key>label</key>
+			<string>Disable spotlight + widgets page</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>cleardismiss</string>
+			<key>label</key>
+			<string>Clear on close</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Icon Badges</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>nbadgeicon</string>
+			<key>label</key>
+			<string>Never badge icons</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Animation</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dunlocka</string>
+			<key>label</key>
+			<string>Disable unlock animation</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>In Folder</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dfbopen</string>
+			<key>label</key>
+			<string>Disable folder background</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dficonlabels</string>
+			<key>label</key>
+			<string>No folder title</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>enablenf</string>
+			<key>label</key>
+			<string>Enable nested folders</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>disbblur</string>
+			<key>label</key>
+			<string>Disable background blur</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>enstatusb</string>
+			<key>label</key>
+			<string>Enable status bar</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Plus devices</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>norotate</string>
+			<key>label</key>
+			<string>Disable homescreen rotate</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Springboard settings</string>
+</dict>
+</plist>

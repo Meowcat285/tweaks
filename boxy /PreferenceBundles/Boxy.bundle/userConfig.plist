@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>How To Use User Config</string>
+			<key>detail</key>
+			<string>howToUse</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>All values are in pixels</string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.irepo.boxy</string>
+			<key>key</key>
+			<string>vertIconPadding</string>
+			<key>label</key>
+			<string>Vertical Icon Padding (px) </string>
+			<key>keyboard</key>
+			<string>numbers</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.irepo.boxy</string>
+			<key>key</key>
+			<string>horiIconPadding</string>
+			<key>label</key>
+			<string>Horizontal Icon Padding (px)</string>
+			<key>keyboard</key>
+			<string>numbers</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.irepo.boxy</string>
+			<key>key</key>
+			<string>sideIconInset</string>
+			<key>label</key>
+			<string>Side Icon Inset (px)</string>
+			<key>keyboard</key>
+			<string>numbers</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.irepo.boxy</string>
+			<key>key</key>
+			<string>topIconInset</string>
+			<key>label</key>
+			<string>Top Icon Inset (px)</string>
+			<key>keyboard</key>
+			<string>numbers</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>addCustomPreset</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Save as Custom Preset</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Layout Presets</string>
+		</dict>
+	
+	</array>
+	<key>title</key>
+	<string>Presets and User Settings</string>
+</dict>
+</plist>

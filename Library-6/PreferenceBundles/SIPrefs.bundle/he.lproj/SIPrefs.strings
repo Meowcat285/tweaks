@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>פשוט</string>
+<key>Fusion</key>
+<string>Fusion</string>
+	<key>Advanced</key>
+	<string>מתקדם</string>
+	<key>Enabled</key>
+	<string>הפעל</string>
+	<key>Choose between modes</key>
+	<string>בחר בין מצבים</string>
+	<key>General Animations (Simple)</key>
+	<string>אנימציות כלליות (פשוט)</string>
+	<key>Whole System (Advanced)</key>
+	<string>כל המערכת (מתקדם)</string>
+	<key>Blacklist Applications</key>
+	<string>בטל באפליקציות</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>בטל בזמן רעידת אייקונים</string>
+    <key>Spring Animations</key>
+    <string>אנימציות קפיץ</string>
+    <key>Stiffness</key>
+    <string>נוקשות</string>
+<key>Fusion</key>
+<string>מיזוג</string>
+	<key>Mass</key>
+	<string>מסה</string>
+<key>What should I choose?</key>
+<string>מה עליי לבחור?</string>
+    <key>Damping</key>
+    <string>דעיכה</string>
+    <key>Spring animations is recommended for both Fusion and Advanced mode</key>
+    <string>אנימציות קפיץ מומלצות גם למצב מיזוג וגם למצב מתקדם</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>אם אתה אוהב את זה, בבקשה תרום לPayPal：pw5a29@gmail.com
+
+תרגום על ידי @aranshavit
+ </string>
+    <key>Blacklist Springboard</key>
+    <string>בטל בSpringBoard</string>
+</dict>
+</plist>
+

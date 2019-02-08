@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = TouchrSettings;
+		cell = PSLinkCell;
+		detail = TRRootViewController;
+		icon = "Icon-small.png";
+		isController = 1;
+		label = Touchr;
+	};
+}

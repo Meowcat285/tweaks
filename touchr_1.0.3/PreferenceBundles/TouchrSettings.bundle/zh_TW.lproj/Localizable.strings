@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%d days left</key>
+	<string>%d 天試用</string>
+	<key>Action</key>
+	<string>动作</string>
+	<key>Activate</key>
+	<string>啟用</string>
+	<key>Activated</key>
+	<string>已啟用</string>
+	<key>Activating ...</key>
+	<string>啟用中...</string>
+	<key>Activation Failed</key>
+	<string>啟用失敗</string>
+	<key>Activation Succeed</key>
+	<string>啟用成功</string>
+	<key>Apps</key>
+	<string>程式</string>
+	<key>Buy</key>
+	<string>購買</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Close</key>
+	<string>關閉</string>
+	<key>Disable in Apps</key>
+	<string>應用程式中禁用</string>
+	<key>Disabled</key>
+	<string>不啟用</string>
+	<key>Done</key>
+	<string>完成</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>License</key>
+	<string>授權</string>
+	<key>Please enter your purchase email or serial number</key>
+	<string>請輸入你的購買郵箱或啟用碼！</string>
+	<key>Switcher</key>
+	<string>多任务</string>
+	<key>Network Error</key>
+	<string>网络错误</string>
+	<key>Thank you for supporting %s, but activation failed! You can buy the license at %s. Any question, please feel free to contact us at: %s</key>
+	<string>感謝您支持%s，啟用失敗，請到官網%s購買。有任何問題請與我們聯絡，郵件是：%s</string>
+	<key>Thank you for supporting %s. Any question, please feel free to contact us at: %s.</key>
+	<string>感謝您支持%s，有任何問題請與我們聯絡，郵件是：%s</string>
+	<key>The trial period is over. Please buy the license at %s. If you have bought a license, please press Activate.</key>
+	<string>試用期結束，請登入%s購買。如果您已購買，確認你已經連接上了網路，然後點”啟用“就可以啟用使用了。</string>
+	<key>This is a fully functional 3 days trial version. You can buy the license at %s. If you have bought a license, confirm your device is connected to the Internet, then press Activate. Status: %d days left</key>
+	<string>這是一個3天試用期的全功能版本，請到官網%s購買。如果您已購買, 確認你已經連接上了網路，然後點”啟用“就可以啟用使用了。狀態: 剩余 %d 天</string>
+	<key>Thank you for supporting %s, but activation failed! One purchase can activate five device, you already activated five device. You can buy the license at %s. Any question, please feel free to contact us at: %s</key>
+	<string>感謝您支持%s，啟動失敗，一次購買可啟動5台機器，你已經啟動5台機器了，請到官網%s購買，有任何問題請與我們聯繫，郵件是：%s</string>
+	<key>Network error (%d) : Please check your network connection and try it again. Any question, please feel free to contact us at: %s</key>
+	<string>网络错误(%d) : 请检查您的网络连接，然后重试。有任何问题请与我们联系，邮件是：%s</string>
+	<key>Thank you for supporting %s, but activation failed! Try reinstall via BigBoss repo or official repo (%s). Any question, please feel free to contact us at: %s</key>
+	<string>感谢您支持%s，激活失败！请从BigBoss源或官方源(%s)重新安装。有任何问题请与我们联系，邮件是：%s</string>
+	<key>Visit Website (Open Safari)</key>
+	<string>訪問官網 (打開Safari)</string>
+	<key>Lock Device</key>
+	<string>鎖定機器</string>
+	<key>Disables</key>
+	<string>禁用</string>
+	<key>Single Press</key>
+	<string>按一下</string>
+	<key>Double Press</key>
+	<string>按兩下</string>
+	<key>Triple Press</key>
+	<string>按三下</string>
+	<key>Hold</key>
+	<string>按住</string>
+	<key>Press &amp; Hold</key>
+	<string>按一下再按住</string>
+	<key>Press &amp; Slide in</key>
+	<string>按一下并劃入屏幕</string>
+	<key>Home Button</key>
+	<string>Home键</string>
+	<key>Siri</key>
+	<string>Siri</string>
+	<key>Reachability</key>
+	<string>便捷訪問</string>
+	<key>Screenshot</key>
+	<string>截屏</string>
+	<key>App Back</key>
+	<string>程序内返回</string>
+	<key>Back</key>
+	<string>返回</string>
+	<key>Last App</key>
+	<string>上一个程序</string>
+	<key>Control Center</key>
+	<string>控制中心</string>
+	<key>Notification Center</key>
+	<string>通知中心</string>
+	<key>Mute</key>
+	<string>静音</string>
+	<key>Flashlight</key>
+	<string>手电筒</string>
+	<key>Vibrate</key>
+	<string>振动</string>
+	<key>Vibrate on Touch</key>
+	<string>触摸振动</string>
+	<key>Override system vibrate setting</key>
+	<string>超越系統震動設置</string>
+	<key>Turn on Screen</key>
+	<string>点亮屏幕</string>
+	<key>Turn on Screen and Unlock</key>
+	<string>点亮屏幕并解锁</string>
+	<key>Turn off After</key>
+	<string>自動關閉</string>
+	<key>Never</key>
+	<string>永不</string>
+	<key>1 minute</key>
+	<string>1分鐘</string>
+	<key>3 minutes</key>
+	<string>3分鐘</string>
+	<key>5 minutes</key>
+	<string>5分鐘</string>
+	<key>8 minutes</key>
+	<string>8分鐘</string>
+	<key>10 minutes</key>
+	<string>10分鐘</string>
+	<key>15 minutes</key>
+	<string>15分鐘</string>
+	<key>30 minutes</key>
+	<string>30分鐘</string>
+	<key>1 hour</key>
+	<string>1小時</string>
+	<key>2 hours</key>
+	<string>2小時</string>
+	<key>3 hours</key>
+	<string>3小時</string>
+	<key>4 hours</key>
+	<string>4小時</string>
+	<key>5 hours</key>
+	<string>5小時</string>
+	<key>Gesture</key>
+	<string>觸發手勢</string>
+	<key>Gestures</key>
+	<string>手勢</string>
+	<key>Allows you to turn on screen and unlock device by touch fingerprint sensor. If turn on will consume certain amount of battery.</key>
+	<string>可觸摸指紋感測器點亮螢幕並解鎖。如果開啓會消耗一定的電量。</string>
+	<key>Drag the slider to set response time.</key>
+	<string>滑动滑条设置反应时间。</string>
+	<key>Lockscreen Disable</key>
+	<string>锁屏禁用</string>
+	<key>Do Nothing</key>
+	<string>无动作</string>
+</dict>
+</plist>

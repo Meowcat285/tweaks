@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Boxy;
+	cell = PSLinkCell;
+	detail = BoxyListController;
+	icon = Boxy.png;
+	isController = 1;
+	label = Boxy;
+    };
+}

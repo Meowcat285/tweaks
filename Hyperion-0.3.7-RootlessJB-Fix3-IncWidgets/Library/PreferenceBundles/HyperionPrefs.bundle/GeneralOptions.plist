@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>AlwaysShow</string>
+			<key>label</key>
+			<string>Always Show</string>
+		</dict>
+
+        <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>UseLowPowerMode</string>
+			<key>label</key>
+			<string>Enable LPM Whilst Showing</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>PocketDetection</string>
+			<key>label</key>
+			<string>Disable In Pocket</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>General Options</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = Gravity;
+		cell = PSLinkCell;
+		detail = "GravityController";
+		icon = "icon.png";
+		isController = 1;
+		label = Gravity;
+	};
+}

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>Simpel</string>
+<key>Fusion</key>
+<string>Fusion</string>
+	<key>Advanced</key>
+	<string>Advanseret</string>
+	<key>Enabled</key>
+	<string>Aktiveret</string>
+	<key>Choose between modes</key>
+	<string>Skift mellem tilstande</string>
+	<key>General Animations (Simple)</key>
+	<string>Generelle animationer (simpel)</string>
+	<key>Whole System (Advanced)</key>
+	<string>Hele systemet (advanseret)</string>
+	<key>Blacklist Applications</key>
+	<string>Blacklist apps</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>Deaktivere ved redigerings-tilstand</string>
+    <key>Spring Animations</key>
+    <string>Åben animation</string>
+    <key>Stiffness</key>
+    <string>Stivhed</string>
+	<key>Mass</key>
+	<string>Masse</string>
+    <key>Damping</key>
+    <string>Dæmpning</string>
+    <key>Spring animations could be applied to both Simple and Advanced mode</key>
+    <string>Åben animation kan tilføjes til både simpel og advanseret tilstand</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>Hvis du kan lide dette, bedes du donere via paypal：pw5a29@gmail.com
+
+ThefferA</string>
+    <key>Blacklist Springboard</key>
+    <string>Blacklist hjemmeskærm</string>
+</dict>
+</plist>

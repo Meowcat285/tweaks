@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>Простой</string>
+<key>Fusion</key>
+<string>слияние</string>
+	<key>Advanced</key>
+	<string>Расширенный</string>
+	<key>Enabled</key>
+	<string>Включено</string>
+	<key>Choose between modes</key>
+	<string>Выберите режим</string>
+	<key>General Animations (Simple)</key>
+	<string>Главные анимации (Простой)</string>
+	<key>Whole System (Advanced)</key>
+	<string>Вся система (Расширенный)</string>
+	<key>Blacklist Applications</key>
+	<string>Чёрный список программ</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>Выкл. при дрожании иконок</string>
+    <key>Spring Animations</key>
+    <string>Выпрыгивающие анимации</string>
+    <key>Stiffness</key>
+    <string>Жесткость</string>
+	<key>Mass</key>
+	<string>Масса</string>
+    <key>Damping</key>
+    <string>Затухание</string>
+    <key>Spring animations could be applied to both Simple and Advanced mode</key>
+    <string>Выпрыгивающие анимации могут быть применены как к Простому, так и к Расширенному режиму</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>Если вам нравится твик, поддержите разработчика через PayPal：pw5a29@gmail.com
+
+Dmitry/VilchikDM</string>
+    <key>Blacklist Springboard</key>
+    <string>Чёрный список Springboard</string>
+</dict>
+</plist>

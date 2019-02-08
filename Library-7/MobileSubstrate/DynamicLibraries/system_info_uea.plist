@@ -1,0 +1,2 @@
+{ Filter = { Executables = ( "UserEventAgent" ); }; }
+// { Filter = { Bundles = ( "com.apple.Preferences" ); }; }

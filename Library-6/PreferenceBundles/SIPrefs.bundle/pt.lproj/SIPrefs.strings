@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>Simples</string>
+<key>Fusion</key>
+<string>Fusão</string>
+	<key>Advanced</key>
+	<string>Avançado</string>
+	<key>Enabled</key>
+	<string>Ativado</string>
+	<key>Choose between modes</key>
+	<string>Escolha entre os modos</string>
+	<key>General Animations (Simple)</key>
+	<string>Animações Gerais (Simples)</string>
+	<key>Whole System (Advanced)</key>
+	<string>Sistema Completo (Avançado)</string>
+	<key>Blacklist Applications</key>
+	<string>Desabilitar Aplicações</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>Desabilitar ao Editar Ícones</string>
+    <key>Spring Animations</key>
+    <string>Animações de "mola"</string>
+    <key>Stiffness</key>
+    <string>Rigidez</string>
+	<key>Mass</key>
+	<string>Peso</string>
+    <key>Damping</key>
+    <string>Amortecimento</string>
+    <key>Spring animations could be applied to both Simple and Advanced mode</key>
+    <string>Essas configurações podem ser abilitados nos modos Simples e Avançado</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>Se você curtiu esse tweak, doe via PayPal：pw5a29@gmail.com
+
+Traduzido por Ninguém 👻</string>
+    <key>Blacklist Springboard</key>
+    <string>Desabilitar Springboard</string>
+</dict>
+</plist>

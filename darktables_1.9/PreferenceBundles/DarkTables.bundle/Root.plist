@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>headerCellClass</key>
+			<string>HBPackageNameHeaderCell</string>
+			<key>icon</key>
+			<string>icon.png</string>
+			<key>packageIdentifier</key>
+			<string>com.dpkg.darktables</string>
+			<key>subtitleColor</key>
+			<string>#aaaaaa</string>
+			<key>titleColor</key>
+			<string>#ff2525</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>The third option works better with Palert.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.darktables</string>
+			<key>key</key>
+			<string>key1</string>
+			<key>label</key>
+			<string>True black mode</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.darktables</string>
+			<key>key</key>
+			<string>key5</string>
+			<key>label</key>
+			<string>Dark share menus</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.darktables</string>
+			<key>key</key>
+			<string>key3</string>
+			<key>label</key>
+			<string>Dark header/interface for pop-ups</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.dpkg.darktables</string>
+			<key>key</key>
+			<string>key2</string>
+			<key>label</key>
+			<string>Tap anywhere to dismiss</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.dpkg.darktables</string>
+			<key>key</key>
+			<string>key4</string>
+			<key>label</key>
+			<string>Square menus</string>
+		</dict>
+             <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>You’ll always enjoy my tweaks for free, however I’d appreciate a cup of coffee for my time :)</string>
+		</dict>
+             <dict>
+			<key>action</key>
+			<string>respring:</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Respring</string>
+		</dict>
+             <dict>
+			<key>action</key>
+			<string>repo</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Add my repo</string>
+		</dict>
+             <dict>
+			<key>action</key>
+			<string>donate</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Support me!</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>DarkTables</string>
+</dict>
+</plist>

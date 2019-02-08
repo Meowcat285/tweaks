@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%d days left</key>
+	<string>%d أيام مضت</string>
+	<key>1 hour</key>
+	<string>ساعة</string>
+	<key>1 minute</key>
+	<string>دقيقة</string>
+	<key>10 minutes</key>
+	<string>10 دقائق</string>
+	<key>15 minutes</key>
+	<string>15 دقيقة</string>
+	<key>2 hours</key>
+	<string>ساعتين</string>
+	<key>3 hours</key>
+	<string>3 ساعات</string>
+	<key>3 minutes</key>
+	<string>3 دقائق</string>
+	<key>30 minutes</key>
+	<string>30 دقيقة</string>
+	<key>4 hours</key>
+	<string>4 ساعات</string>
+	<key>5 hours</key>
+	<string>5 ساعات</string>
+	<key>5 minutes</key>
+	<string>5 دقائق</string>
+	<key>8 minutes</key>
+	<string>8 دقائق</string>
+	<key>Action</key>
+	<string>التأثير</string>
+	<key>Activate</key>
+	<string>التفعيل</string>
+	<key>Activated</key>
+	<string>مفعل بالكامل</string>
+	<key>Activating ...</key>
+	<string>جاري التفعيل ..</string>
+	<key>Activation Failed</key>
+	<string>خطأ في التفعيل</string>
+	<key>Activation Succeed</key>
+	<string>تم التفعيل بنجاح!</string>
+	<key>Allows you to turn on screen and unlock device by touch fingerprint sensor. If turn on will consume certain amount of battery.</key>
+	<string>يمكنك لمس البصمة لتشغيل شاشة القفل وفتح الجهاز بدون الحاجة الى الضغط ، ملاحظة اذا اخترت المدة للابد فأنها تستهل بطارية أكثر ،،
+
+شكر خاص لـ عبدالله على التعريب ksa6162@</string>
+	<key>App Back</key>
+	<string>سحب للخلف</string>
+	<key>Apps</key>
+	<string>التطبيقات</string>
+	<key>Back</key>
+	<string>رجوع</string>
+	<key>Buy</key>
+	<string>شراء</string>
+	<key>Cancel</key>
+	<string>إلغاء</string>
+	<key>Close</key>
+	<string>إغلاق</string>
+	<key>Disable in Apps</key>
+	<string>تعطيل في تطبيقات معينة</string>
+	<key>Disabled</key>
+	<string>معطل</string>
+	<key>Disables</key>
+	<string>معطلة</string>
+	<key>Done</key>
+	<string>تم</string>
+	<key>Double Press</key>
+	<string>لمستين</string>
+	<key>Enabled</key>
+	<string>تمكين</string>
+	<key>Gesture</key>
+	<string>الخيارات</string>
+	<key>Gestures</key>
+	<string>الخيارات</string>
+	<key>Hold</key>
+	<string>لمسة مطولة</string>
+	<key>Home Button</key>
+	<string>زر الهوم</string>
+	<key>Last App</key>
+	<string>الرجوع الى آخر تطبيق</string>
+	<key>License</key>
+	<string>التفعيل</string>
+	<key>Lock Device</key>
+	<string>إغلاق الشاشة</string>
+	<key>Network Error</key>
+	<string>خطأ في الشبكة</string>
+	<key>Network error (%d) : Please check your network connection and try it again. Any question, please feel free to contact us at: %s</key>
+	<string>خطأ في الشبكة (%d) : الرجاء التحقق من اتصالك بالانترنت او يمكنك مراسلتي على العنوان التالي : %s</string>
+	<key>Never</key>
+	<string>للأبد</string>
+	<key>Override system vibrate setting</key>
+	<string>قوة الهزاز</string>
+	<key>Please enter your purchase email or serial number</key>
+	<string>برجاء ضع الايميل او السريال نمبر لتفعيل الاداه</string>
+	<key>Press &amp; Hold</key>
+	<string>لمسة ثم لمسة بإستمرار</string>
+	<key>Press &amp; Slide in</key>
+	<string>لمسة ثم سحب للأعلى</string>
+	<key>Reachability</key>
+	<string>سحب الشاشة للأسفل</string>
+	<key>Screenshot</key>
+	<string>تصوير الشاشة</string>
+	<key>Single Press</key>
+	<string>لسمة واحدة</string>
+	<key>Siri</key>
+	<string>سيري</string>
+	<key>Switcher</key>
+	<string>برامج الخلفية</string>
+	<key>Thank you for supporting %s, but activation failed! One purchase can activate five device, you already activated five device. You can buy the license at %s. Any question, please feel free to contact us at: %s</key>
+	<string>شكرا لدعمك ، لكن التفعيل لم يكتمل ، يمكنك شراء تفعيل بقيمة 1.99 ويعمل على 5 أجهزة </string>
+	<key>Thank you for supporting %s, but activation failed! Try reinstall via BigBoss repo or official repo (%s). Any question, please feel free to contact us at: %s</key>
+	<string>شكرا لدعمك ، لكن التفعيل لم يكتمل ، برجاء إعادة تثبيت الاداه من سورس البيق بوس او مراسلتي لحل المشكلة</string>
+	<key>Thank you for supporting %s, but activation failed! You can buy the license at %s. Any question, please feel free to contact us at: %s</key>
+	<string>شكرا لدعمك ، لكن التفعيل لم يكتمل ، يمكنك شراء تفعيل بقيمة 1.99 ويعمل على 5 أجهزة </string>
+	<key>Thank you for supporting %s. Any question, please feel free to contact us at: %s.</key>
+	<string>شكرا لدعمك ، تم التفعيل بنجاح !!</string>
+	<key>The trial period is over. Please buy the license at %s. If you have bought a license, please press Activate.</key>
+	<string>تم الانتهاء من الفترة التجريبية 3 ايام للاده ، يمكنك الاستمرار بشراء تفعيل بقيمة 1.99 دولار وسيتم منحك 5 رخص ل 5 اجهزة ، او اذا كنت قد اشتريت البرنامج بالفعل فقط تاكد من اتصالك بالانترنت واضغط على كلمة تفعيل .</string>
+	<key>This is a fully functional 3 days trial version. You can buy the license at %s. If you have bought a license, confirm your device is connected to the Internet, then press Activate. Status: %d days left</key>
+	<string>مرحبا بك ، هذا هي الفترة التجربية لمدة 3 ايام فقط ، يمكنك شراء تفعيل بقيمة 1.99 دولار وسيتم منحك 5 رخص ل 5 اجهزة ، او اذا كنت قد اشتريت البرنامج بالفعل فقط تاكد من اتصالك بالانترنت واضغط على كلمة تفعيل .</string>
+	<key>Triple Press</key>
+	<string>ثلاث لمسات</string>
+	<key>Turn off After</key>
+	<string>إغلاق بعد </string>
+	<key>Turn on Screen</key>
+	<string>فتح الشاشة</string>
+	<key>Turn on Screen and Unlock</key>
+	<string>فتح الشاشة و فتح الجهاز</string>
+	<key>Vibrate on Touch</key>
+	<string>إهتزاز مع اللمس</string>
+	<key>Visit Website (Open Safari)</key>
+	<string>زيارة الموقع</string>
+</dict>
+</plist>

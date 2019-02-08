@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>Đơn giản</string>
+<key>Fusion</key>
+<string>Fusion</string>
+	<key>Advanced</key>
+	<string>Nâng cao</string>
+	<key>Enabled</key>
+	<string>Bật</string>
+	<key>Choose between modes</key>
+	<string>Chọn chế độ</string>
+	<key>General Animations (Simple)</key>
+	<string>Hiệu ứng thông thường (Đơn giản)</string>
+	<key>Whole System (Advanced)</key>
+	<string>Toàn hệ thống (Nâng cao)</string>
+	<key>Blacklist Applications</key>
+	<string>Ứng dụng không bị ảnh hưởng</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>Tắt khi icon đang rung</string>
+    <key>Spring Animations</key>
+    <string>Hiệu ứng nảy</string>
+    <key>Stiffness</key>
+    <string>Độ cứng</string>
+	<key>Mass</key>
+	<string>Khối lượng</string>
+    <key>Damping</key>
+    <string>Tắt dần</string>
+    <key>Spring animations could be applied to both Simple and Advanced mode</key>
+    <string>Hiệu ứng nảy sẽ được áp dụng cho cả chế độ Đơn giản và Nâng cao</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>Ủng hộ qua Paypal nếu bạn thích：pw5a29@gmail.com
+
+Việt hóa bởi Veerklempt</string>
+    <key>Blacklist Springboard</key>
+    <string>Không ảnh hưởng đến Springboard</string>
+</dict>
+</plist>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>App Switcher</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>ercc</string>
+			<key>label</key>
+			<string>Enable round card corners</string> 
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>Round corner intensity</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<integer>6</integer> 
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string> 
+			<key>key</key>
+			<string>rcis</string>
+			<key>max</key>
+			<real>20</real> 
+			<key>min</key>
+			<real>3</real> 
+			<key>showValue</key> 
+			<false/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dait</string>
+			<key>label</key>
+			<string>Disable app icon and name</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dbb</string>
+			<key>label</key>
+			<string>Disable background blur</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dfb</string>
+			<key>label</key>
+			<string>Disable homescreen card blur</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>Enstatusba</string>
+			<key>label</key>
+			<string>Enable status bar</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>devmodeswit</string>
+			<key>label</key>
+			<string>Dev mode switcher</string> 
+		</dict>
+	</array>
+	<key>title</key>
+	<string>App Switcher settings</string>
+</dict>
+</plist>

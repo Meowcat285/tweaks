@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>簡單</string>
+    <key>Fusion</key>
+    <string>合併</string>
+	<key>Advanced</key>
+	<string>進階</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>Choose between modes</key>
+	<string>請揀一個模式</string>
+<key>Fusion Compatibility</key>
+<string>合併兼容</string>
+<key>You are recommened to turn on Fusion Compatibility while using Fusion Mode</key>
+<string>用緊合併模式建議你開合併兼容</string>
+	<key>General Animations (Simple)</key>
+	<string>一般嘅動畫（簡單）</string>
+	<key>Whole System (Advanced)</key>
+	<string>成個系統（進階）</string>
+	<key>Blacklist Applications</key>
+	<string>黑名單</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>當icon震動時停用</string>
+    <key>Spring Animations</key>
+    <string>彈簧動畫</string>
+    <key>Stiffness</key>
+    <string>剛度指數</string>
+	<key>Mass</key>
+	<string>質量</string>
+    <key>Damping</key>
+    <string>阻尼指數</string>
+    <key>Spring animations is recommended for both Fusion and Advanced mode</key>
+    <string>彈簧動畫建議係合併同進階模式時使用</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>如果你鍾意呢個軟件，請捐贈支持到paypal：pw5a29@gmail.com</string>
+    <key>What should I choose?</key>
+    <string>應該揀邊個?</string>
+</dict>
+</plist>

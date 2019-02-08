@@ -1,0 +1,13 @@
+Package: com.nrkvv.blankicons
+Name: BlankIcons
+Depends: mobilesubstrate, preferenceloader, firmware (>=9.0)
+Architecture: iphoneos-arm
+Description: Create Blank Icons !!
+Maintainer: m156nrkvv
+Author: m156nrkvv
+Section: Utilities
+Tag: compatible::ios9, compatible::ios10, compatible::ios11
+Homepage: http://twitter.com/m156nrkvv
+Icon: file:///Library/PreferenceBundles/BlankIconsPrefs.bundle/BlankIcons@2x.png
+Version: 0.0.2
+Installed-Size: 644

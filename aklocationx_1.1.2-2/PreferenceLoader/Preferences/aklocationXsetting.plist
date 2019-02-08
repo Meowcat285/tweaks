@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = aklocationXsetting;
+		cell = PSLinkCell;
+		detail = "aklocationXsettingListController";
+		icon = "Icon.png";
+		isController = 1;
+		label = AkLocationX;
+	};
+}

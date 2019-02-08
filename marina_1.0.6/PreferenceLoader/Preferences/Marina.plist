@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Marina;
+	cell = PSLinkCell;
+	detail = MarinaListController;
+	icon = Marina.png;
+	isController = 1;
+	label = Marina;
+    };
+}

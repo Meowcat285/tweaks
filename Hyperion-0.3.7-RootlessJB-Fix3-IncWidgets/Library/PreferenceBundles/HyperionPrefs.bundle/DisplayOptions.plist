@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+		<dict>
+            <key>cell</key>
+            <string>PSLinkListCell</string>
+            <key>label</key>
+            <string>Display Transition</string>
+            <key>detail</key>
+            <string>PSListItemsController</string>
+			<key>default</key>
+            <string>2</string>
+			<key>validTitles</key>
+            <array>
+					<string>No Animation</string>
+                    <string>Fade In Fast</string>
+					<string>Fade In Slow</string>
+					<string>Slide Up Fast</string>
+					<string>Slide Up Slow</string>
+            </array>
+            <key>validValues</key>
+            <array>
+                    <string>1</string>
+					<string>2</string>
+                    <string>3</string>
+					<string>4</string>
+					<string>5</string>
+            </array>
+            <key>key</key>
+            <string>TransitionType</string>
+            <key>defaults</key>
+            <string>com.spark.hyperionprefs</string>
+        </dict>
+
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>WakeOnNotification</string>
+			<key>label</key>
+			<string>Show Lockscreen Every Notification</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>WakeOnFirstNotification</string>
+			<key>label</key>
+			<string>Show Lockscreen First Notification</string>
+		</dict>
+
+        <dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>(Required for Glyph Themes - uses original 'unthemed' icon to select colour)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>UseOriginalIcons</string>
+			<key>label</key>
+			<string>Use Un-Themed Icons</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Waking</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>DoubleTapToWake</string>
+			<key>label</key>
+			<string>Double Tap to Wake</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>LiftToWake</string>
+			<key>label</key>
+			<string>Raise To Wake</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>DelayBeforeShow</string>
+			<key>label</key>
+			<string>Delay Before Show (Show LS briefly)</string>
+		</dict>
+
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Brightness</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>OverrideBrightness</string>
+			<key>label</key>
+			<string>Override Brightness</string>
+		</dict>
+		<dict>
+			<key>showValue</key>
+			<true/>
+			<key>max</key>
+			<integer>100</integer>
+			<key>min</key>
+			<integer>1</integer>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>50</real>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>Brightness</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Other</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.spark.hyperionprefs</string>
+			<key>key</key>
+			<string>HideAssistiveTouch</string>
+			<key>label</key>
+			<string>Hide Assistive Touch</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>Display Options</string>
+</dict>
+</plist>

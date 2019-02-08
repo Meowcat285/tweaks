@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+
+		<dict>
+			<key>cell</key>                 <string>PSGroupCell</string>
+			<key>headerCellClass</key>      <string>mdSylphStyleHeaderCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>                   <string>PSSwitchCell</string>
+			<key>PostNotification</key>       <string>ch.mdaus.sylph.settingschanged</string>
+			<key>default</key>                <true/>
+			<key>defaults</key>               <string>ch.mdaus.sylph</string>
+			<key>key</key>                    <string>enabled</string>
+			<key>label</key>                  <string>Enable</string>
+			<key>icon</key>                   <string>enabled.png</string>
+		</dict>
+
+
+
+		<dict>
+			<key>cell</key>                   <string>PSGroupCell</string>
+			<key>label</key>                  <string>Style:</string>
+		</dict>
+		<dict>
+			<key>cell</key>   								<string>PSSegmentCell</string>
+			<key>cellClass</key> 							<string>MDSylphSegmentCell</string>
+			<key>PostNotification</key>       <string>ch.mdaus.sylph.settingschanged</string>
+			<key>defaults</key> 						  <string>ch.mdaus.sylph</string>
+			<key>default</key> 						  	<string>1</string>
+			<key>key</key> 										<string>style</string>
+			<key>id</key> 										<string>style</string>
+			<key>validValues</key>
+				<array>
+					<string>compact</string>
+					<string>compactWithTime</string>
+					<string>compactWithVolume</string>
+					<string>bigBoi</string>
+				</array>
+			<key>validTitles</key>
+				<array>
+					<string>Teeny</string>
+					<string>Tiny (Time)</string>
+					<string>Tiny (Volume)</string>
+					<string>Jumbo</string>
+				</array>
+		 <key>alignment</key> 							<string>1</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>                   <string>PSGroupCell</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>                   <string>PSSwitchCell</string>
+			<key>PostNotification</key>       <string>ch.mdaus.sylph.settingschanged</string>
+			<key>default</key>                <false/>
+			<key>defaults</key>               <string>ch.mdaus.sylph</string>
+			<key>key</key>                    <string>hideArt</string>
+			<key>label</key>                  <string>Hide album art</string>
+			<key>icon</key>                   <string>enabled.png</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>                   <string>PSSwitchCell</string>
+			<key>PostNotification</key>       <string>ch.mdaus.sylph.settingschanged</string>
+			<key>default</key>                <true/>
+			<key>defaults</key>               <string>ch.mdaus.sylph</string>
+			<key>key</key>                    <string>hideMediaTimeLabels</string>
+			<key>label</key>                  <string>Hide Duration Labels</string>
+			<key>icon</key>                   <string>enabled.png</string>
+		</dict>
+
+		<dict>
+			<key>cell</key>                   <string>PSGroupCell</string>
+			<key>label</key>                  <string>Jumbo Art Corner Radius:</string>
+		</dict>
+		<dict>
+			<key>cell</key>                   <string>PSEditTextCell</string>
+			<key>label</key>                  <string></string>
+			<key>bestGuess </key>             <string>0.0</string>
+			<key>isDecimalPad</key>           <true/>
+			<key>PostNotification</key>       <string>ch.mdaus.sylph.settingschanged</string>
+			<key>defaults</key>               <string>ch.mdaus.sylph</string>
+			<key>key</key>                    <string>jumboCornerRadius</string>
+		</dict>
+		<dict>
+			<key>action</key>                   <string>savePrefs</string>
+			<key>cell</key>                     <string>PSButtonCell</string>
+			<key>label</key>     	              <string>Save Values</string>
+		</dict>
+
+
+		<dict>
+			<key>cell</key>                   <string>PSGroupCell</string>
+			<key>label</key>                  <string>Some changes may require a respring</string>
+		</dict>
+		<dict>
+			<key>cell</key>                    <string>PSButtonCell</string>
+			<key>label</key>                   <string>Respring</string>
+			<key>action</key>                  <string>respring</string>
+			<key>icon</key>                    <string>respring.png</string>
+			<key>icon</key>                   <string>artsyRespring.png</string>
+		</dict>
+
+
+		<dict>
+			<key>cell</key>                   <string>PSGroupCell</string>
+			<key>label</key>                  <string>Developed By:</string>
+		</dict>
+		<dict>
+			<key>action</key>                   <string>goToTwitter</string>
+			<key>cell</key>                     <string>PSButtonCell</string>
+			<key>icon</key>                     <string>twitter.png</string>
+			<key>label</key>     	              <string>@M_Dausch</string>
+		</dict>
+
+	</array>
+	<key>title</key>
+	<string>Sylph</string>
+</dict>
+</plist>

@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+	
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>LS, HS and NC</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dissearchbar</string>
+			<key>label</key>
+			<string>Disable search bar</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>encustnotiliness</string> 
+			<key>label</key>
+			<string>Enable custom notification lines</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>noofcustlins</string> 
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Enter number of lines preferred.</string> 
+		</dict>
+		
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Notification Bulletin/Banner</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>removbulletico</string>
+			<key>label</key>
+			<string>Remove app icon</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>removeappname</string>
+			<key>label</key>
+			<string>Remove app name</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>removebulletdate</string>
+			<key>label</key>
+			<string>Remove time</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>removeheader</string>
+			<key>label</key>
+			<string>Hide header</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hidemessname</string>
+			<key>label</key>
+			<string>Hide name</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hidemesscont</string>
+			<key>label</key>
+			<string>Hide content</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hidehintfrLS</string>
+			<key>label</key>
+			<string>Hide hint for LS</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>sbt</string>
+			<key>label</key>
+			<string>Sticky banners</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Notification and Control center</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>afs</string>
+			<key>label</key>
+			<string>Pull on first swipe NC/CC</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Notification Center</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>dm</string>
+			<key>label</key>
+			<string>Dark mode</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>9sg</string>
+			<key>label</key>
+			<string>IOS 9 style grabber</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>nbfo</string>
+			<key>label</key>
+			<string>No bounce/Fast open</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>oib</string>
+			<key>label</key>
+			<string>Open notification in background</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>tapxtocl</string>
+			<key>label</key>
+			<string>Tap X to clear</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hidenonotitext</string>
+			<key>label</key>
+			<string>Hide "no notification" text</string>
+		</dict>
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Widgets View</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>rdd</string>
+			<key>label</key>
+			<string>Remove day/date</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>sldd</string>
+			<key>label</key>
+			<string>Single line day/date</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>tvoo</string>
+			<key>label</key>
+			<string>Open to widgets view</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>naupt</string>
+			<key>label</key>
+			<string>No "new widget available" text</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>wbct</string>
+			<key>label</key>
+			<string>No "weather by..." text</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hideeditbutt</string>
+			<key>label</key>
+			<string>Hide edit button</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Lockscreen</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>vlt</string>
+			<key>label</key>
+			<string>View later</string>
+		</dict>
+		
+		
+	</array>
+	<key>title</key>
+	<string>Notification settings</string>
+</dict>
+</plist>

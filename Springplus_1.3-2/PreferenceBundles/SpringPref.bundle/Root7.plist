@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Status Bar</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hsignald</string>
+			<key>label</key>
+			<string>Hide signal dots</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hcarrierd</string>
+			<key>label</key>
+			<string>Hide carrier</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hdatad</string>
+			<key>label</key>
+			<string>Hide Data/Wifi</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>haird</string>
+			<key>label</key>
+			<string>Hide Airplane icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>htimed</string>
+			<key>label</key>
+			<string>Hide time</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hdndd</string>
+			<key>label</key>
+			<string>Hide DnD icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hbheadsd</string>
+			<key>label</key>
+			<string>Hide Bluetooth Headphone icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hbbattsd</string>
+			<key>label</key>
+			<string>Hide Bluetooth battery icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hbtoothd</string>
+			<key>label</key>
+			<string>Hide Bluetooth icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>halarmd</string>
+			<key>label</key>
+			<string>Hide Alarm icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hrotated</string>
+			<key>label</key>
+			<string>Hide Rotation Lock icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hairplayd</string>
+			<key>label</key>
+			<string>Hide Airplay icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hvpnd</string>
+			<key>label</key>
+			<string>Hide VPN icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hlocationd</string>
+			<key>label</key>
+			<string>Hide location icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hspnactd</string>
+			<key>label</key>
+			<string>Hide Spinning Activity icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hbatterysd</string>
+			<key>label</key>
+			<string>Hide battery icon</string> 
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>hbotltd</string>
+			<key>label</key>
+			<string>Hide charging bolt icon</string> 
+		</dict>
+		
+		
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Custom Carrier</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>customcarrier</string> 
+			<key>label</key>
+			<string>Enable custom carrier</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>detail</key>
+			<string>PSDetailController</string>
+			<key>key</key>
+			<string>customcarriertext</string> 
+			<key>label</key>
+			<string></string>
+			<key>placeholder</key>
+			<string>Enter text here</string>
+		</dict>
+		
+		
+		
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Fake battery percentage</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string>
+			<key>key</key>
+			<string>enfakebattpercent</string>
+			<key>label</key>
+			<string>Enable fake percentage</string> 
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>(slide left)0 --- 100(slide right)</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<integer>50</integer> 
+			<key>defaults</key>
+			<string>com.rishanan.springpref</string> 
+			<key>key</key>
+			<string>battperct</string>
+			<key>max</key>
+			<real>100</real> 
+			<key>min</key>
+			<real>1</real> 
+			<key>showValue</key> 
+			<true/>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>Status Bar settings</string>
+</dict>
+</plist>
+

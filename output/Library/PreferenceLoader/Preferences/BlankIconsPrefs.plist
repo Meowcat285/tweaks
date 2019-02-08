@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = BlankIconsPrefs;
+		cell = PSLinkCell;
+		detail = "BlankIconsListController";
+		icon = "BlankIcons.png";
+		isController = 1;
+		label = BlankIcons;
+	};
+}

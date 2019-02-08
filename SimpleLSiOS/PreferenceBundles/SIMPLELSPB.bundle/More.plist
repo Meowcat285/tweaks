@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Change the time format.</string>
+			<key>label</key>
+			<string>Time Format</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSegmentCell</string>
+			<key>default</key>
+			<integer>1</integer>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>timeFormat</string>
+			<key>label</key>
+			<string>Time Format</string>
+			<key>validTitles</key>
+			<array>
+				<string>24 Hours</string>
+				<string>12 Hours</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>1</integer>
+				<integer>2</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>useBlack</string>
+			<key>label</key>
+			<string>Black Font</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>useBold</string>
+			<key>label</key>
+			<string>Bold Text</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>lockLoc</string>
+			<key>label</key>
+			<string>Lock Clock Coordinates</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>disAutoBW</string>
+			<key>label</key>
+			<string>Disable Auto Set Font Color</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>disFlashing</string>
+			<key>label</key>
+			<string>Disable Flashing ":"</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Use custom date format.</string>
+			<key>label</key>
+			<string>Custom Date Format</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>enableCDF</string>
+			<key>label</key>
+			<string>Use Custom Date Format</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Change the day format. e.g. EEEE (Monday)</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>dayFormat</string>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>noAutoCorrect</key>
+			<true/>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Change the date format. e.g. yyyy-MM-dd</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>dateFormat</string>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>noAutoCorrect</key>
+			<true/>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Hide somethings on lock screen</string>
+			<key>label</key>
+			<string>Hide Somethings</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>hideText</string>
+			<key>label</key>
+			<string>Hide Press To Unlock</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>hideConl</string>
+			<key>label</key>
+			<string>Hide Media Controller</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>hideWea</string>
+			<key>label</key>
+			<string>Hide Weather View</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>hideClo</string>
+			<key>label</key>
+			<string>Hide Clock View</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>hideToy</string>
+			<key>label</key>
+			<string>Hide Today Page</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Move notification center to the top of the screen if you have Nine installed.</string>
+			<key>label</key>
+			<string>Move NC Up</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>moveTop</string>
+			<key>label</key>
+			<string>Move NC up with Nine</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Set custom subtitle</string>
+			<key>label</key>
+			<string>Custom SubTitle</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>subTitle</string>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>noAutoCorrect</key>
+			<false/>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>key</key>
+			<string>cusText</string>
+			<key>label</key>
+			<string>Custom press to unlock text</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Set custom text</string>
+			<key>label</key>
+			<string>Custom Text</string>
+		</dict>
+		<dict>
+			<key>key</key>
+			<string>setCusText</string>
+			<key>defaults</key>
+			<string>com.xcxiao.simplels</string>
+			<key>noAutoCorrect</key>
+			<false/>
+			<key>cell</key>
+			<string>PSEditTextCell</string>
+		</dict>
+	</array>
+	<key>title</key>
+	<string>More</string>
+</dict>
+</plist>

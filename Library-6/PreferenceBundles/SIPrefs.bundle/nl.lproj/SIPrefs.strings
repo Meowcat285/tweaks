@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>Eenvoudig</string>
+<key>Fusion</key>
+<string>Fusie</string>
+	<key>Advanced</key>
+	<string>Geavanceerd</string>
+	<key>Enabled</key>
+	<string>Ingeschakeld</string>
+	<key>Choose between modes</key>
+	<string>Kies tussen modi</string>
+	<key>General Animations (Simple)</key>
+	<string>Algemene Animaties (Eenvoudig)</string>
+	<key>Whole System (Advanced)</key>
+	<string>Heel Systeem (Geavanceerd)</string>
+	<key>Blacklist Applications</key>
+	<string>Blacklist Applicaties</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>Uitschakelen tijdens icoon wiebelen</string>
+    <key>Spring Animations</key>
+    <string>Stuiter Animaties</string>
+    <key>Stiffness</key>
+    <string>Stijfheid</string>
+	<key>Mass</key>
+	<string>Massa</string>
+    <key>Damping</key>
+    <string>Demping</string>
+    <key>Spring animations could be applied to both Simple and Advanced mode</key>
+    <string>Stuiter animaties kunnen worden toegepast op zowel de eenvoudige en geavanceerde modus</string>
+    <key>Blacklist Springboard</key>
+    <string>Blacklist Springboard</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>Als je dit goed vind kun je doneren via PayPal: pw5a29@gmail.com
+
+Lokalisatie door /u/Remmes-</string>
+</dict>
+</plist>

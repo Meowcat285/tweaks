@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>title</key>
+	<string>Touchr</string>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>key</key>
+			<string>Enabled</string>
+			<key>label</key>
+			<string>Enabled</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>key</key>
+			<string>LockscreenDisable</string>
+			<key>label</key>
+			<string>Lockscreen Disable</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>key</key>
+			<string>DisabledInApps</string>
+			<key>isController</key>
+			<true/>
+			<key>detail</key>
+			<string>TRApplicationsViewController</string>
+			<key>label</key>
+			<string>Disable in Apps</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Gestures</string>
+			<key>footerText</key>
+			<string>Drag the slider to set response time.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string>touchr.action.single.press.homebutton</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>touchr.gesture.single.press</string>
+			<key>label</key>
+			<string>Single Press</string>
+			<key>validTitles</key>
+			<array>
+				<string>Disabled</string>
+				<string>Do Nothing</string>
+				<string>Home Button</string>
+				<string>Switcher</string>
+				<string>Lock Device</string>
+				<string>Siri</string>
+				<string>Reachability</string>
+				<string>Screenshot</string>
+				<string>App Back</string>
+				<string>Back</string>
+				<string>Last App</string>
+				<string>Control Center</string>
+				<string>Notification Center</string>
+				<string>Mute</string>
+				<string>Flashlight</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>Disabled</string>
+				<string>touchr.action.donothing</string>
+				<string>touchr.action.single.press.homebutton</string>
+				<string>touchr.action.activate.switcher</string>
+				<string>touchr.action.lock.device</string>
+				<string>touchr.action.activate.siri</string>
+				<string>touchr.action.activate.reachability</string>
+				<string>touchr.action.save.screenshot</string>
+				<string>touchr.action.app.back</string>
+				<string>touchr.action.back</string>
+				<string>touchr.action.last.app</string>
+				<string>touchr.action.controlcenter</string>
+				<string>touchr.action.notificationcenter</string>
+				<string>touchr.action.mute</string>
+				<string>touchr.action.flashlight</string>
+			</array>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string>touchr.action.activate.switcher</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>touchr.gesture.double.press</string>
+			<key>label</key>
+			<string>Double Press</string>
+			<key>validTitles</key>
+			<array>
+				<string>Disabled</string>
+				<string>Do Nothing</string>
+				<string>Home Button</string>
+				<string>Switcher</string>
+				<string>Lock Device</string>
+				<string>Siri</string>
+				<string>Reachability</string>
+				<string>Screenshot</string>
+				<string>App Back</string>
+				<string>Back</string>
+				<string>Last App</string>
+				<string>Control Center</string>
+				<string>Notification Center</string>
+				<string>Mute</string>
+				<string>Flashlight</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>Disabled</string>
+				<string>touchr.action.donothing</string>
+				<string>touchr.action.single.press.homebutton</string>
+				<string>touchr.action.activate.switcher</string>
+				<string>touchr.action.lock.device</string>
+				<string>touchr.action.activate.siri</string>
+				<string>touchr.action.activate.reachability</string>
+				<string>touchr.action.save.screenshot</string>
+				<string>touchr.action.app.back</string>
+				<string>touchr.action.back</string>
+				<string>touchr.action.last.app</string>
+				<string>touchr.action.controlcenter</string>
+				<string>touchr.action.notificationcenter</string>
+				<string>touchr.action.mute</string>
+				<string>touchr.action.flashlight</string>
+			</array>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string>touchr.action.save.screenshot</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>touchr.gesture.triple.press</string>
+			<key>label</key>
+			<string>Triple Press</string>
+			<key>validTitles</key>
+			<array>
+				<string>Disabled</string>
+				<string>Do Nothing</string>
+				<string>Home Button</string>
+				<string>Switcher</string>
+				<string>Lock Device</string>
+				<string>Siri</string>
+				<string>Reachability</string>
+				<string>Screenshot</string>
+				<string>App Back</string>
+				<string>Back</string>
+				<string>Last App</string>
+				<string>Control Center</string>
+				<string>Notification Center</string>
+				<string>Mute</string>
+				<string>Flashlight</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>Disabled</string>
+				<string>touchr.action.donothing</string>
+				<string>touchr.action.single.press.homebutton</string>
+				<string>touchr.action.activate.switcher</string>
+				<string>touchr.action.lock.device</string>
+				<string>touchr.action.activate.siri</string>
+				<string>touchr.action.activate.reachability</string>
+				<string>touchr.action.save.screenshot</string>
+				<string>touchr.action.app.back</string>
+				<string>touchr.action.back</string>
+				<string>touchr.action.last.app</string>
+				<string>touchr.action.controlcenter</string>
+				<string>touchr.action.notificationcenter</string>
+				<string>touchr.action.mute</string>
+				<string>touchr.action.flashlight</string>
+			</array>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string>touchr.action.last.app</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>touchr.gesture.hold</string>
+			<key>label</key>
+			<string>Hold</string>
+			<key>validTitles</key>
+			<array>
+				<string>Disabled</string>
+				<string>Do Nothing</string>
+				<string>Home Button</string>
+				<string>Switcher</string>
+				<string>Lock Device</string>
+				<string>Siri</string>
+				<string>Reachability</string>
+				<string>Screenshot</string>
+				<string>App Back</string>
+				<string>Back</string>
+				<string>Last App</string>
+				<string>Control Center</string>
+				<string>Notification Center</string>
+				<string>Mute</string>
+				<string>Flashlight</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>Disabled</string>
+				<string>touchr.action.donothing</string>
+				<string>touchr.action.single.press.homebutton</string>
+				<string>touchr.action.activate.switcher</string>
+				<string>touchr.action.lock.device</string>
+				<string>touchr.action.activate.siri</string>
+				<string>touchr.action.activate.reachability</string>
+				<string>touchr.action.save.screenshot</string>
+				<string>touchr.action.app.back</string>
+				<string>touchr.action.back</string>
+				<string>touchr.action.last.app</string>
+				<string>touchr.action.controlcenter</string>
+				<string>touchr.action.notificationcenter</string>
+				<string>touchr.action.mute</string>
+				<string>touchr.action.flashlight</string>
+			</array>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string>touchr.action.lock.device</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>touchr.gesture.press.and.hold</string>
+			<key>label</key>
+			<string>Press &amp; Hold</string>
+			<key>validTitles</key>
+			<array>
+				<string>Disabled</string>
+				<string>Do Nothing</string>
+				<string>Home Button</string>
+				<string>Switcher</string>
+				<string>Lock Device</string>
+				<string>Siri</string>
+				<string>Reachability</string>
+				<string>Screenshot</string>
+				<string>App Back</string>
+				<string>Back</string>
+				<string>Last App</string>
+				<string>Control Center</string>
+				<string>Notification Center</string>
+				<string>Mute</string>
+				<string>Flashlight</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>Disabled</string>
+				<string>touchr.action.donothing</string>
+				<string>touchr.action.single.press.homebutton</string>
+				<string>touchr.action.activate.switcher</string>
+				<string>touchr.action.lock.device</string>
+				<string>touchr.action.activate.siri</string>
+				<string>touchr.action.activate.reachability</string>
+				<string>touchr.action.save.screenshot</string>
+				<string>touchr.action.app.back</string>
+				<string>touchr.action.back</string>
+				<string>touchr.action.last.app</string>
+				<string>touchr.action.controlcenter</string>
+				<string>touchr.action.notificationcenter</string>
+				<string>touchr.action.mute</string>
+				<string>touchr.action.flashlight</string>
+			</array>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<string>touchr.action.app.back</string>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>touchr.gesture.press.and.slidein</string>
+			<key>label</key>
+			<string>Press &amp; Slide in</string>
+			<key>validTitles</key>
+			<array>
+				<string>Disabled</string>
+				<string>Do Nothing</string>
+				<string>Home Button</string>
+				<string>Switcher</string>
+				<string>Lock Device</string>
+				<string>Siri</string>
+				<string>Reachability</string>
+				<string>Screenshot</string>
+				<string>App Back</string>
+				<string>Back</string>
+				<string>Last App</string>
+				<string>Control Center</string>
+				<string>Notification Center</string>
+				<string>Mute</string>
+				<string>Flashlight</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<string>Disabled</string>
+				<string>touchr.action.donothing</string>
+				<string>touchr.action.single.press.homebutton</string>
+				<string>touchr.action.activate.switcher</string>
+				<string>touchr.action.lock.device</string>
+				<string>touchr.action.activate.siri</string>
+				<string>touchr.action.activate.reachability</string>
+				<string>touchr.action.save.screenshot</string>
+				<string>touchr.action.app.back</string>
+				<string>touchr.action.back</string>
+				<string>touchr.action.last.app</string>
+				<string>touchr.action.controlcenter</string>
+				<string>touchr.action.notificationcenter</string>
+				<string>touchr.action.mute</string>
+				<string>touchr.action.flashlight</string>
+			</array>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<real>0.2</real>
+			<key>key</key>
+			<string>ResponseTime</string>
+			<key>max</key>
+			<real>0.6</real>
+			<key>min</key>
+			<real>0.1</real>
+			<key>showValue</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Turn on Screen</string>
+			<key>footerText</key>
+			<string>Allows you to turn on screen and unlock device by touch fingerprint sensor. If turn on will consume certain amount of battery.</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>0</integer>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>TurnOnScreenAction</string>
+			<key>label</key>
+			<string>Action</string>
+			<key>validTitles</key>
+			<array>
+				<string>Disabled</string>
+				<string>Turn on Screen</string>
+				<string>Turn on Screen and Unlock</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+				<integer>2</integer>
+			</array>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>1</integer>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>TurnOnScreenGesture</string>
+			<key>label</key>
+			<string>Gesture</string>
+			<key>validTitles</key>
+			<array>
+				<string>Single Press</string>
+				<string>Double Press</string>
+				<string>Hold</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>1</integer>
+				<integer>2</integer>
+				<integer>3</integer>
+			</array>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>default</key>
+			<integer>0</integer>
+			<key>detail</key>
+			<string>PSListItemsController</string>
+			<key>key</key>
+			<string>TurnOffAfter</string>
+			<key>label</key>
+			<string>Turn off After</string>
+			<key>validTitles</key>
+			<array>
+				<string>Never</string>
+				<string>1 minute</string>
+				<string>3 minutes</string>
+				<string>5 minutes</string>
+				<string>8 minutes</string>
+				<string>10 minutes</string>
+				<string>15 minutes</string>
+				<string>30 minutes</string>
+				<string>1 hour</string>
+				<string>2 hours</string>
+				<string>3 hours</string>
+				<string>4 hours</string>
+				<string>5 hours</string>
+			</array>
+			<key>validValues</key>
+			<array>
+				<integer>0</integer>
+				<integer>60</integer>
+				<integer>180</integer>
+				<integer>300</integer>
+				<integer>480</integer>
+				<integer>600</integer>
+				<integer>900</integer>
+				<integer>1800</integer>
+				<integer>3600</integer>
+				<integer>7200</integer>
+				<integer>10800</integer>
+				<integer>14400</integer>
+				<integer>18000</integer>
+			</array>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Vibrate</string>
+			<key>footerText</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>key</key>
+			<string>VibrateOnTouch</string>
+			<key>label</key>
+			<string>Vibrate on Touch</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>key</key>
+			<string>ForcedVibrate</string>
+			<key>label</key>
+			<string>Override system vibrate setting</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSliderCell</string>
+			<key>default</key>
+			<integer>20</integer>
+			<key>key</key>
+			<string>VibrateTime</string>
+			<key>max</key>
+			<integer>100</integer>
+			<key>min</key>
+			<integer>1</integer>
+			<key>showValue</key>
+			<true/>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string></string>
+			<key>footerText</key>
+			<string>Touchr v1.0.3 © 2016~2017 Ma Jun
+http://www.clezz.com</string>
+		</dict>
+		<dict>
+			<key>id</key>
+			<string>LICENSE</string>
+			<key>cell</key>
+			<string>PSLinkListCell</string>
+			<key>action</key>
+			<string>activate</string>
+			<key>isController</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.clezz.touchr</string>
+			<key>key</key>
+			<string>key</string>
+			<key>label</key>
+			<string>License</string>
+			<key>get</key>
+			<string>getValueForSpecifier:</string>
+			<key>PostNotification</key>
+			<string>com.clezz.touchr.preferences-changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>label</key>
+			<string>Visit Website (Open Safari)</string>
+			<key>action</key>
+			<string>visitWebsite</string>
+		</dict>
+	</array>
+</dict>
+</plist>

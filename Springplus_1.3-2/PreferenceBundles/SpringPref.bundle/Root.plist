@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>SpringPlus!</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>sbppRootListControllerThree</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Lockscreen</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>sbppRootListControllerTwo</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Springboard</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>sbppRootListControllerEight</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Status Bar</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>sbppRootListControllerNine</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Control Center</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>sbppRootListControllerFour</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>Notifications</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>sbppRootListControllerFive</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>App Switcher</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>sbppRootListControllerSix</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>System-wide</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSLinkCell</string>
+			<key>detail</key>
+			<string>sbppRootListControllerSeven</string>
+			<key>isController</key>
+			<true/>
+			<key>label</key>
+			<string>System Apps</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Respring to apply all changes</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Clean and Respring(May take up to 10secs)</string>
+			<key>action</key>
+			<string>respring</string>
+		</dict>
+		<dict>
+			<key>label</key>
+			<string>Report issues to /u/Rishanan or Email me</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>Credits</string>
+		</dict>
+		<dict>
+		   <key>cell</key>
+		   <string>PSButtonCell</string>
+		   <key>action</key>
+		   <string>apply</string>
+		   <key>label</key>
+		   <string>About me</string>
+	   </dict>
+	   <dict>
+			<key>action</key>
+			<string>link</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>label</key>
+			<string>Please donate here</string> 
+		</dict>
+	</array>
+	<key>title</key>
+	<string>SpringPlus Settings</string>
+</dict>
+</plist>

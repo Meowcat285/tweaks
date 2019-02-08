@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>label</key>
+				<string>akLocationX Settings</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false/>
+				<key>defaults</key>
+				<string>org.thebigboss.aklocationxsetting</string>
+				<key>key</key>
+				<string>enableState</string>
+				<key>label</key>
+				<string>Enable</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSEditTextCell</string>
+				<key>default</key>
+				<string>00.0000</string>
+				<key>defaults</key>
+				<string>org.thebigboss.aklocationxsetting</string>
+				<key>key</key>
+				<string>latitude</string>
+				<key>isIP</key>
+				<true/>
+				<key>label</key>
+				<string>Latitude:</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSEditTextCell</string>
+				<key>default</key>
+				<string>000.0000</string>
+				<key>defaults</key>
+				<string>org.thebigboss.aklocationxsetting</string>
+				<key>key</key>
+				<string>longitude</string>
+				<key>isIP</key>
+				<true/>
+				<key>label</key>
+				<string>Longitude:</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>id</key>
+				<string>SNGroup</string>
+				<key>label</key>
+				<string>About</string>
+			</dict>
+
+			<dict>
+				<key>icon</key>
+				<string>twitter.png</string>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>id</key>
+				<string>goTwitter</string>
+				<key>alignment</key>
+				<integer>1</integer>
+				<key>label</key>
+				<string>@AlickHill</string>
+				<key>action</key>
+				<string>goTwitter:</string>
+			</dict>
+			<dict>
+				<key>icon</key>
+				<string>weibo.png</string>
+				<key>cell</key>
+				<string>PSButtonCell</string>
+				<key>id</key>
+				<string>goWeibo</string>
+				<key>alignment</key>
+				<integer>1</integer>
+				<key>align</key>
+				<string>left</string>
+				<key>label</key>
+				<string>@AlickHill</string>
+				<key>action</key>
+				<string>goWeibo:</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSButtonCell</string>                                                                                                                  
+				<key>id</key>                                                                                                                                  
+				<string>getSupport</string>                                                                                                                    
+				<key>alignment</key>                                                                                                                           
+				<integer>1</integer>                                                                                                                           
+				<key>icon</key>                                                                                                                                
+				<string>mail.png</string>                                                                                                                     
+				<key>label</key>                                                                                                                               
+				<string>Get Support</string>                                                                                                                       
+				<key>align</key>     
+				<string>left</string>                                                                                                                          
+				<key>action</key>                                                                                                                              
+				<string>goSupport:</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSButtonCell</string>                                                                                                                  
+				<key>id</key>                                                                                                                                  
+				<string>getMore</string>                                                                                                                    
+				<key>alignment</key>                                                                                                                           
+				<integer>1</integer>                                                                                                                           
+				<key>icon</key>                                                                                                                                
+				<string>cydia.png</string>                                                                                                                     
+				<key>label</key>                                                                                                                               
+				<string>Get More Tweak</string>                                                                                                                       
+				<key>align</key>     
+				<string>left</string>                                                                                                                          
+				<key>action</key>                                                                                                                              
+				<string>getMore:</string>
+			</dict>
+
+			<dict>
+				<key>cell</key>
+				<string>PSGroupCell</string>
+				<key>footerText</key>
+				<string>akLocationX 1.1.2-1, 2012-2014 Alick Hill </string>
+			</dict>
+
+		</array>
+		<key>title</key>
+		<string>akLocationX</string>
+	</dict>
+</plist>

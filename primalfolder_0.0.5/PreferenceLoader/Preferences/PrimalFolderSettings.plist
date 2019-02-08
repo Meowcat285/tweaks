@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = PrimalFolderSettings;
+	cell = PSLinkCell;
+	detail = PrimalFolderController;
+	icon = PrimalFolder.png;
+	isController = 1;
+	label = PrimalFolder;
+    };
+}

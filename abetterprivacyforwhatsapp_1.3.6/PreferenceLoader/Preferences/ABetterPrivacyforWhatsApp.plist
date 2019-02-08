@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = ABetterPrivacyforWhatsApp;
+	cell = PSLinkCell;
+	detail = ABetterPrivacyforWhatsAppListController;
+	icon = ABetterPrivacyforWhatsApp.png;
+	isController = 1;
+	label = ABetterPrivacyforWhatsApp;
+    };
+}

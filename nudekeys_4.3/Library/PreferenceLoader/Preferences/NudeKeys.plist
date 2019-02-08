@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = NudeKeys;
+	cell = PSLinkCell;
+	detail = NudeKeysListController;
+	icon = NudeKeys.png;
+	isController = 1;
+	label = NudeKeys;
+    };
+}

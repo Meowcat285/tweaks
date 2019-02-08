@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Filter</key>
+	<dict>
+		<key>Bundles</key>
+		<array>
+			<string>net.whatsapp.WhatsApp</string>
+		</array>
+	</dict>
+	<key>Tweak</key>
+	<dict>
+		<key>PackageID</key>
+		<string>com.f0u4d.stalky</string>
+		<key>Version</key>
+		<string>3.1.13</string>
+	</dict>
+</dict>
+</plist>

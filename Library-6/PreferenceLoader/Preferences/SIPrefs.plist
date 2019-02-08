@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = SIPrefs;
+		cell = PSLinkCell;
+		detail = "SIPrefsListController";
+		icon = "speed.png";
+		isController = 1;
+		label = "Speed Intensifier";
+	};
+}

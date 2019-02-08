@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Simple</key>
+	<string>Semplice</string>
+<key>Fusion</key>
+<string>Fusione</string>
+	<key>Advanced</key>
+	<string>Avanzato</string>
+	<key>Enabled</key>
+	<string>Attivo</string>
+	<key>Choose between modes</key>
+	<string>Scegli tra le modalità</string>
+	<key>General Animations (Simple)</key>
+	<string>Animazioni Generali (Semplice)</string>
+	<key>Whole System (Advanced)</key>
+	<string>Intero Sistema (Avanzato)</string>
+	<key>Blacklist Applications</key>
+	<string>Applicazioni della blacklist</string>
+	<key>Disable during Icon Wiggling</key>
+	<string>Disattiva durante l'animazione delle icone</string>
+    <key>Spring Animations</key>
+    <string>Animazioni veloci</string>
+    <key>Stiffness</key>
+    <string>Rigidità</string>
+	<key>Mass</key>
+	<string>Massa</string>
+    <key>Damping</key>
+    <string>Attenuazione</string>
+    <key>Spring animations could be applied to both Simple and Advanced mode</key>
+    <string>Le animazioni veloci potrebbero essere applicate ad entrambi le modalità Semplice e Avanzata</string>
+	<key>If you like this, please donate to paypal: pw5a29@gmail.com</key>
+	<string>Se ti piace il tweak, dona con PayPal：pw5a29@gmail.com
+
+Traduzione by @andrea_depa97</string>
+    <key>Blacklist Springboard</key>
+    <string>Springboard della blacklist</string>
+</dict>
+</plist>
